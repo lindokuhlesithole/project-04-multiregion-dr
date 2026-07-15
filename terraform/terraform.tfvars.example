@@ -1,0 +1,5 @@
+app_name       = "multiregion-dr"
+db_password    = ""
+domain_name    = ""
+hosted_zone_id = ""
+alert_email    = ""
