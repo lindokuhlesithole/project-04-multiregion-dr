@@ -294,8 +294,10 @@ Based in Bremen, Germany. BSc Mathematical Science from the University of the Wi
 - **GitHub:** [github.com/lindokuhlesithole](https://github.com/lindokuhlesithole)
 - **Email:** sitholelindokuhle371@gmail.com
 
----
+**Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
-<p align="center">
-  <b>Built by <a href="https://www.linkedin.com/in/lindokuhle-sithole-bb701b19a">Lindokuhle Sithole</a> - Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist</b>
-</p>
+Based in Bremen, Germany. BSc Mathematical Science from the University of the Witwatersrand. 5x AWS Certified (Solutions Architect Professional, Security Specialty, CloudOps Engineer Associate, Solutions Architect Associate, Cloud Practitioner) plus CompTIA Security+.
+
+- **LinkedIn:** [linkedin.com/in/lindokuhle-sithole-bb701b19a](https://www.linkedin.com/in/lindokuhle-sithole-bb701b19a)
+- **GitHub:** [github.com/lindokuhlesithole](https://github.com/lindokuhlesithole)
+- **Email:** sitholelindokuhle371@gmail.com
